@@ -1,6 +1,5 @@
 dist: jammy
 os: linux
 group: dev
-language: generic
 script: 
   - date
