@@ -1,4 +1,5 @@
-dist: jammy
+dist: focal
+language: generic
 os: linux
 group: dev
 script: 
