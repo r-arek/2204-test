@@ -1,7 +1,6 @@
 dist: jammy
+os: linux
 group: dev
-language: php
-php:
-  - "8.1.2"
+language: generic
 script: 
-  - php --version
+  - date
